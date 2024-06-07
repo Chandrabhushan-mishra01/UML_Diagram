@@ -1,0 +1,1 @@
+Repository of UML diagrams covering various system designs and architectures. Includes use case, class, sequence, activity, and state diagrams with detailed annotations and explanations for each model.
